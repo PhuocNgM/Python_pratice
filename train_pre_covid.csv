@@ -1,4 +1,4 @@
-segment_id,date,weekday,day_type,period,time_slot,LOS,n,s_node_id,e_node_id,length,street_id,max_velocity,street_level,street_name,street_type,long_snode,lat_snode,long_enode,lat_enode,hour,minute,year_month,is_holiday
+segment_id,date,dow,day_type,period,time_slot,LOS,n,s_node_id,e_node_id,length,street_id,max_velocity,street_level,street_name,street_type,long_snode,lat_snode,long_enode,lat_enode,hour,minute,year_month,is_holiday
 33,2020-08-02,6,weekend,period_23_30,47,C,2,366469460,3792257828,26,32575862,40.0,3,Đường số 5,secondary,106.7619572,10.87865,106.7621428,10.8788077,23,30,2020-08,False
 33,2020-08-03,0,weekday,period_0_00,0,F,8,366469460,3792257828,26,32575862,40.0,3,Đường số 5,secondary,106.7619572,10.87865,106.7621428,10.8788077,0,0,2020-08,False
 70,2020-08-02,6,weekend,period_23_30,47,F,2,5816921541,4614188871,8,32575864,40.0,3,Châu Văn Liêm,secondary,106.6590317,10.7519402,106.6590192,10.7520169,23,30,2020-08,False
